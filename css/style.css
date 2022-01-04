@@ -1,0 +1,30 @@
+.wrapper {
+  text-align: center;
+  background-color: rgb(85, 156, 172);
+  border-radius: 30px;
+  max-width: 400px;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 80px;
+}
+.btn {
+  margin-bottom: 15px;
+}
+.contant {
+  padding: 30px;
+}
+.inputs {
+  display: block;
+}
+.inputs input {
+  padding: 5px 10px;
+  margin-bottom: 7px;
+}
+.result {
+  background-color: #fff;
+  max-width: 150px;
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 10px;
+  border-radius: 5px;
+}
