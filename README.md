@@ -1,1 +1,1 @@
-https://roflanchik.github.io/Calculator/
+https://roflan.github.io/Calculator/
